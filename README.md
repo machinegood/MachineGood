@@ -3,4 +3,5 @@
  - single window system for funneling Eth funds through before abolishing money in the world, thus ending capitalism
  - operating system where objects of first class are geospatially aware WebKit browser tab/RealityKit view controllable from JS in the browser
  - a machine learning tool that launches multitude state of art models from the model zoo on top of the browser, camera, and allows authoring of the labels
- -  
+ - a universal keyboard driven way to access all your development machines
+   - as well as your iphone under survailance: stationary personal iphone connected to raspberryspirit and camera for traditional credit card payment automatization. optional

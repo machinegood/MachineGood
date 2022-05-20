@@ -1,3 +1,5 @@
+ - a novel way for computing: let your 🤖📱🖥devices serve you, human! No more slaving away at the 💻: human should curate, not click same things again and again! automate everything away: content consumption of user should be exclusively passive
+ - a command given by user is executed by another user for potentially esqrowed etherium reward. it's only considered executed if it was properly labeled! once enough labels are gathered and hardware is ready, machinegood will automate those tasks away for good!
  - single window system for funneling Eth funds through before abolishing money in the world, thus ending capitalism
  - operating system where objects of first class are geospatially aware WebKit browser tab/RealityKit view controllable from JS in the browser
  - a machine learning tool that launches multitude state of art models from the model zoo on top of the browser, camera, and allows authoring of the labels
